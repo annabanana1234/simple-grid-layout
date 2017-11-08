@@ -14,19 +14,17 @@ div.container {
   max-width: 800px;
 }
 
-
 header {
   background-color: #a68adb;
   grid-area: header;
 }
-
 
 main {
   background-color: #d88cdb;
   grid-area: main;
 }
 
-aside {
+  aside {
   background-color: #b2db8c;
   grid-area: aside;
 }
