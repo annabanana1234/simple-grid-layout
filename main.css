@@ -40,9 +40,9 @@ footer {
  div.container {
    grid-template-columns: 1fr;
    grid-template-areas:
-   "header"
-   "main"
-   "aside"
-   "footer";
+    "header"
+    "main"
+    "aside"
+    "footer";
   }
 }
