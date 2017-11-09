@@ -24,7 +24,7 @@ main {
   grid-area: main;
 }
 
-  aside {
+aside {
   background-color: #b2db8c;
   grid-area: aside;
 }
